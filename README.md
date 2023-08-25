@@ -23,7 +23,8 @@
 
 ###
 
-<p align="left">I'm Ivan Brillo from Padua.<br><br>- 🔭 I’m studying in the Computer Engineering program at the University of Padua.<br>- 📚 I'm currently learning about Flutter application development and Firebase storage.<br>- ⚡ In my free time, I am actively involved in the university's Formula SAE team, specifically focusing on the software department. This experience allows me to apply my knowledge to real-world engineering challenges and collaborate with a diverse team of fellow students.</p>
+<p align="left">I'm Ivan Brillo from Padua.<br><br>- 🔭 I’m studying in the Computer Engineering program at the University of Padua.<br>- 📚 I'm currently learning about Flutter application development and Firebase storage. <br>- 🤖
+At the moment, I'm enrolled with enthusiasm in the CS50’s Introduction to Artificial Intelligence with Python course<br>-⚡ In my free time, I am actively involved in the university's Formula SAE team, specifically focusing on the software department. This experience allows me to apply my knowledge to real-world engineering challenges and collaborate with a diverse team of fellow students.</p>
 
 ###
 
